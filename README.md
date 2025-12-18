@@ -2,7 +2,7 @@
 
 A data analytics dashboard built to visualize key growth and retention metrics for [Projectz AI](https://projectzai.com/), a home design + contractor matching platform.
 
-![Dashboard Preview](preview.png)
+Dashboard Preview | (https://projectz-ai-bcmmysxqeg5mchlmyuhneg.streamlit.app/)
 
 ## Overview
 
